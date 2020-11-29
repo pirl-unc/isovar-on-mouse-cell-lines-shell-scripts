@@ -1,2 +1,2 @@
 # run-STAR
-Shell script that runs the RNA aligner star
+Shell script that retrives/builds a reference genome using star and aligns RNA sequencing FASTQ files. 
