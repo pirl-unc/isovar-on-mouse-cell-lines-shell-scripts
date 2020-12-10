@@ -10,7 +10,7 @@ for var in "$@";
 			
 
 		elif [[ $var == *.gz ]]; then
-			echo 
+			echo "Formatting $var for bcftools"
 			zcat $var | bgzip -c > "new."$var && tabix "new."$var	
 			zipped="new."$var
 	   	fi
