@@ -1,0 +1,7 @@
+,False,True,percent_true
+filter:predicted_effect_modifies_protein_sequence,143.0,16.0,0.101
+filter:has_mutant_protein_sequence_from_rna,156.0,3.0,0.019
+filter:protein_sequence_contains_mutation,156.0,3.0,0.019
+filter:min_num_alt_reads,155.0,4.0,0.025
+filter:max_fraction_other_fragments,0.0,159.0,1.0
+passes_all_filters,156.0,3.0,0.019

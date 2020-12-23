@@ -1,0 +1,15 @@
+Antigen,match_index,protein_sequence,predicted_effect_mutant_protein_sequence,Both,passes_all_filters
+FSLNVVNL,7292,True,True,True,True
+FTFTSFWAYKI,9926,True,True,True,True
+GMAVRALNM,4530,True,True,True,True
+IAICVSDTV,18133,True,True,True,True
+ISRNRHTL,16309,True,True,True,True
+SMGSNDSDTL,12136,False,True,False,False
+YFLENLDKL,3791,True,True,True,True
+ETLLNSATI,2683,True,True,True,True
+LMMLKNVGFAL,14271,True,True,True,True
+SNVMQLLL,9800,True,True,True,False
+ATVIYVPPPFAAAAI,15941,False,True,False,True
+DEEIFSIFAPTPTAM,2709,False,True,False,True
+FTPLILAATAGHAGV,9103,False,True,False,True
+IIGGLSEASPATSEI,7501,True,True,True,True
